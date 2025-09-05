@@ -30,5 +30,4 @@ Insights Gained
 -Identified top-selling products and regions
 -Found loss-making transactions (negative profit)
 -Aggregated sales and profit by category and region
--Learned how to compare orders by the same customer using self-joins
-
+-Learned how to compare orders from the same city (but different customers)
